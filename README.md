@@ -13,10 +13,10 @@ yarn install
 
 ## Directories 
 
-`tmp/` stores images without flipping 
-`img/` stores images after flipping
-`download.js` provides functions to download and flip an image
-`download.test.js` for automated tests
+* `tmp/` stores images without flipping 
+* `img/` stores images after flipping
+* `download.js` provides functions to download and flip an image
+* `download.test.js` for automated tests
 
 ```
 .
