@@ -1,0 +1,19 @@
+{
+  "name": "Image-Processing",
+  "version": "1.0.0",
+  "description": "Stream an image from a url to your computer and flip it along the Y and X axis.",
+  "main": "index.js",
+  "repository": "git@github.com:Holychung/Image-Processing.git",
+  "author": "Holychung <mickey94378@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "sharp": "^0.30.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
